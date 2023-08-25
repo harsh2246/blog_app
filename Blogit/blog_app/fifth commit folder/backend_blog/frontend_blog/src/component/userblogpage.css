@@ -1,0 +1,47 @@
+/* userblogpage.css */
+
+.content {
+
+    margin: 20px;
+  
+    margin-top: 80px;
+  
+    padding: 20px;
+  
+    border-radius: 10px;
+  
+    background-color: #f8f8f8;
+  
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  
+    transition: box-shadow 0.3s ease-in-out;
+  
+  }
+  
+   
+  
+  .content:hover {
+  
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+  
+  }
+  
+   
+  
+  .btn-hover {
+  
+    transition: background-color 0.3s ease-in-out;
+  
+  }
+  
+   
+  
+  .btn-hover:hover {
+  
+    background-color: #4caf50;
+  
+    color: white;
+  
+  }
+  
+   
